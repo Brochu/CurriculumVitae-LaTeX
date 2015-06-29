@@ -1,7 +1,7 @@
 This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.14)  29 JUN 2015 12:21
 entering extended mode
-**cv_AlexandreBrochu
-(D:\IMPORTANT\CurriculumVitae-LaTeX\cv_AlexandreBrochu.tex
+**cv_AlexBrochuEng
+(D:\IMPORTANT\CurriculumVitae-LaTeX\cv_AlexBrochuEng.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -847,7 +847,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 Package hyperref Info: Option `breaklinks' set `true' on input line 52.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 52.
 
-(D:\IMPORTANT\CurriculumVitae-LaTeX\cv_AlexandreBrochu.aux)
+No file cv_AlexBrochuEng.aux.
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
 LaTeX Font Info:    ... okay on input line 52.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
@@ -865,7 +865,6 @@ LaTeX Font Info:    ... okay on input line 52.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 52.
 LaTeX Font Info:    ... okay on input line 52.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 52.
-
 ("C:\Program Files (x86)\MiKTeX\tex\latex\lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -948,9 +947,6 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 52.
 LaTeX Info: Redefining \pageref on input line 52.
 LaTeX Info: Redefining \nameref on input line 52.
-
-(D:\IMPORTANT\CurriculumVitae-LaTeX\cv_AlexandreBrochu.out)
-(D:\IMPORTANT\CurriculumVitae-LaTeX\cv_AlexandreBrochu.out)
 \@outlinefile=\write4
 \makecvtitlepicturebox=\box57
 \makecvtitlepicturewidth=\skip80
@@ -1008,13 +1004,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [1{C:/Users/Alex/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 ]
-Underfull \hbox (badness 8000) in paragraph at lines 115--115
-[]\T1/lmr/m/n/10.95 (+20) Implémentation d'un al-go-rithme
- []
-
-
-Underfull \hbox (badness 3396) in paragraph at lines 116--116
-[]\T1/lmr/m/n/10.95 (+20) Visualisateur du sys-tème so-laire
+Underfull \hbox (badness 2418) in paragraph at lines 117--117
+[]\T1/lmr/m/n/10.95 (+20) Creation of first per-son shoo-ter
  []
 
 [2] [3
@@ -1022,20 +1013,27 @@ Underfull \hbox (badness 3396) in paragraph at lines 116--116
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 160.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 160.
- (D:\IMPORTANT\CurriculumVitae-LaTeX\cv_AlexandreBrochu.aux)
+ (D:\IMPORTANT\CurriculumVitae-LaTeX\cv_AlexBrochuEng.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 160.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 160.
-Package rerunfilecheck Info: File `cv_AlexandreBrochu.out' has not changed.
-(rerunfilecheck)             Checksum: 632F23F9ADC91851C0223D4690380CBC;888.
+
+
+Package rerunfilecheck Warning: File `cv_AlexBrochuEng.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `cv_AlexBrochuEng.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  4B5AF3FF1108255B0A191C5097CE67DB;805.
  ) 
 Here is how much of TeX's memory you used:
- 27485 strings out of 493921
- 507301 string characters out of 3146483
- 602854 words of memory out of 3000000
- 30356 multiletter control sequences out of 15000+200000
- 47418 words of font info for 57 fonts, out of 3000000 for 9000
+ 27474 strings out of 493921
+ 506895 string characters out of 3146483
+ 602653 words of memory out of 3000000
+ 30349 multiletter control sequences out of 15000+200000
+ 47536 words of font info for 58 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 76i,16n,85p,10366b,1069s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 76i,16n,85p,10364b,1069s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files
  (x86)/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}{C:/Program Files (x86)/MiKTeX/f
 onts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files (x86)/MiKTeX/fonts/enc/dvips/
@@ -1051,9 +1049,9 @@ onts/type1/public/lm/lmr8.pfb><C:/Program Files (x86)/MiKTeX/fonts/type1/public
 <C:/Program Files (x86)/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Program Fil
 es (x86)/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Program Files (x86)/MiKTeX/
 fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv_AlexandreBrochu.pdf (3 pages, 238148 bytes).
+Output written on cv_AlexBrochuEng.pdf (3 pages, 233639 bytes).
 PDF statistics:
- 118 PDF objects out of 1000 (max. 8388607)
+ 99 PDF objects out of 1000 (max. 8388607)
  10 named destinations out of 1000 (max. 500000)
- 13885 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 13837 words of extra memory for PDF output out of 14400 (max. 10000000)
 

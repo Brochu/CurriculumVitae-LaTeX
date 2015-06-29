@@ -27,7 +27,7 @@
 
 % personal data
 \name{Alexandre}{Brochu}
-\address{943 avenue du Cheval-Blanc}{J8R 1A2 Gatineau}{QC}
+\address{943 Cheval-Blanc avenue}{J8R 1A2 Gatineau}{QC}
 % optional, remove / comment the line if not wanted; the optional "type" of the phone can be "mobile" (default), "fixed" or "fax"
 \phone[mobile]{(819) 209-9772}
 \phone[fixed]{(819) 669-4016}
@@ -54,72 +54,72 @@
 \pagestyle{empty}
 \thispagestyle{plain}
 
-\section{Éducation}
-\cventry{2012-2015}{Bacc en informatique}{Université de Sherbrooke}{Sherbrooke (Québec)}{}
+\section{Education}
+\cventry{2012-2015}{Bachelor degree in computer science}{Sherbrooke University}{Sherbrooke (Quebec)}{}
     {
             \begin{itemize}
-                \item Moyenne générale finale de 4.06
-                \item Programmation de rendu
-                \item Intelligence artificielle
-                \item Programmation orientée objet
+                \item Final GPA of 4.06
+                \item Rendering programming
+                \item Artificial Intelligence
+                \item Object oriented programming
             \end{itemize}
     }  % arguments 3 to 6 can be left empty
-\cventry{2009-2012}{Technique en informatique}{Cégep de l'Outaouais}{Gatineau (Québec)}{}{}
+\cventry{2009-2012}{DEC in information technology}{Cegep de l'Outaouais}{Gatineau (Quebec)}{}{}
 % NOT SURE ABOUT THIS, MAYBE KEEP THIS??
 % \cventry{2004-2009}{Diplôme d'études secondaire}{Polyvalente de l'Érablière}{Gatineau (Québec)}{}{ Programme micro informatique (PMI)}
 
-\section{Expériences de travail}
-\cventry{mai~2014\\août~2014}{Programmeur généraliste}{Square Enix Montreal}{Montréal}{QC}{
+\section{Work experience}
+\cventry{May~2014\\Aug.~2014}{General programmer}{Square Enix Montreal}{Montreal}{QC}{
 \begin{itemize}
-	\item Travail avec le moteur Unity3D
-        \item Modifier le code du jeu directement (intelligence artificielle, animation, interface usager)
-	\item Ajouter des fonctionnalités au jeu d'après des spécifications
-	\item Règler des problèmes identifiés par une équipe de testeurs
-	\item Développement d'un jeu sur une plateforme mobile
+	\item Working with Unity3D game engine
+        \item Modifying the game code directly (artificial intelligence, animation, user interface)
+	\item Adding functionalities to the game based on specifications
+	\item Fixing problems identified by a team of testers
+        \item Developing a game on a mobile platform
 \end{itemize}}
-\cventry{janv.~2013\\avr.~2013 \\ sept.~2013\\déc.~2013}{Développeur Web}{Environnement Canada}{Gatineau}{QC}{
+\cventry{Jan.~2013\\Apr.~2013 \\ Sept.~2013\\Dec.~2013}{Web Developer}{Environment Canada}{Gatineau}{QC}{
 \begin{itemize}
-	\item Travail en grande partie autonome
-	\item Développer une nouvelle version d'un outils pour aider à la productivité des autres employés
-	\item Planifier une implentation d'une base de données
-	\item Écrire le code d'un outil de publication web (asp.net, MVC)
-	\item Aider à la gestion de serveurs web
+	\item Working in an autonomous fashion
+	\item Developing a ne wversion of a tool used to help productivity of other employees
+	\item Planning the implementation of a database
+	\item Writing code of a web publication tool (asp.net, MVC)
+	\item Helping with web server management
 \end{itemize}}
-\cventry{janv.~2012\\août~2012}{Développeur logiciel}{STaCS DNA}{Ottawa}{ON}{
+\cventry{Jan.~2012\\Aug.~2012}{Software developer}{STaCS DNA}{Ottawa}{ON}{
 \begin{itemize}
-	\item Travail avec une équipe de testing
-	\item Ajout de fonctionnalités dans un logiciel
-	\item Modifier le logiciel en se basant sur des spécifications
-	\item Régler des problèmes soulignés par les clients
-	\item Modifier et maintenir une grande base de données SQL
-	\item Stage complètement en anglais
+	\item Working with a testing team
+	\item Adding functionalities in a DNA database software
+	\item Modifying software based of specifications
+	\item Fixing problems identified by clients using the software
+	\item Maintaining a large SQL database
+	\item Internship completely done in English
 \end{itemize}}
 
-\section{Compétences techniques}
-\cvitem{Systèmes d'exploitation}{Microsoft, Linux, Android}
-\cvitem{Langages}{C++, C\#, Javascript, Ruby, Python, Racket, Java}
-\cvitem{Outils de développement}{Visual Studio, Eclipse, Netbeans, Vim, CMake, GDB}
-\cvitem{Gestion de version}{Git (Github, Bitbucket), Perforce, SVN, TeamFoundation}
-\cvitem{Moteurs de jeu}{Unity 3D, Unreal Engine, DromEd}
+\section{Technical skills}
+\cvitem{Operating systems}{Microsoft, Linux, Android}
+\cvitem{Languages}{C++, C\#, Javascript, Ruby, Python, Racket, Java}
+\cvitem{Development tools}{Visual Studio, Eclipse, Netbeans, Vim, CMake, GDB}
+\cvitem{Version systems}{Git (Github, Bitbucket), Perforce, SVN, TeamFoundation}
+\cvitem{Game engines}{Unity 3D, Unreal Engine, DromEd}
 % à voir si j'ai besoin de plus
 % \cvitem{category 5}{XXX, YYY, ZZZ}
 % \cvitem{category 6}{XXX, YYY, ZZZ}
 
-\section{Prix et distinctions}
-\cvlistitem{Deux différentes mentions d'excellence pour les sessions été 2013 et hiver 2015 à l'Université de Sherbrooke suite à l'obtention d'une note moyenne finale de 4.3 (A+) pour ces sessions.}
-\cvlistitem{Meilleur rendement physique 536}
-\cvlistitem{Meilleur rendement chimie 584}
+\section{Awards and recognitions}
+\cvlistitem{Two different awards of excellence for the summer 2013 and winter 2015 semesters at the Sherbrooke University for a GPA of 4.3 (A+) at the end of each semesters.}
+\cvlistitem{Best grade physics 536}
+\cvlistitem{Best grade chemistry 584}
 % \cvlistitem{Item 3. This item is particularly long and therefore normally spans over several lines. Did you notice the indentation when the line wraps?}
 
-\section{Projets personnels et universitaires}
-\cvlistdoubleitem{Moteur de rendu en tracé de rayons}{Implémentation d'un algorithme d'apprentissage par récompenses}
-\cvlistdoubleitem{Visualisateur du système solaire (OpenGL)}{Génétateur de fractales parallèle}
-\cvlistdoubleitem{Création de contrôles de FPS de base avec l'engin Unity 3D}{Création d'un jeu basé sur des mécaniques observées dans un jeu existant}
+\section{Personal and university projects}
+\cvlistdoubleitem{Ray tracing engine in C++}{Implementation of a reward based learning algorithm}
+\cvlistdoubleitem{Solar system visualiser with OpenGL and C++}{Parallel fractal generator}
+\cvlistdoubleitem{Creation of first person shooter controls with the Unity3D engine}{Creation of a game based on game mechanics observed in an existing game}
 
-\section{Intérêts}
-\cvitem{Jeux vidéo}{J'aime bien jouer aux jeux vidéo dans mes temps libre d'une part pour l'expérience et aussi pour comprendre ce qui rend un jeu intéressant}
-\cvitem{Ordinateur}{Au cours de mes études, j'ai bâti des ordinateurs pour des proches ainsi que moi-même}
-\cvitem{Musique}{Je joue de la guitare électrique depuis 7 ans mainenant. Je suis complètememt autodidacte et j'ai beaucoup développé cette compétence au cours de mon apprentissage}
+\section{Interests}
+\cvitem{Video games}{I like playing video games for the experience in my free time but also to study what makes a game interesting}
+\cvitem{Computer}{While studying, I built multiple computers for my close friends and myself.}
+\cvitem{Music}{I have been playing electric guitar for 7 years now. I learnt all by myself and I practiced my self-education a lot while learning.}
 
 % Publications from a BibTeX file without multibib
 %  for numerical labels: \renewcommand{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}% CONSIDER MERGING WITH PREAMBLE PART
