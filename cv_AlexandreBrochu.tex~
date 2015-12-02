@@ -33,7 +33,7 @@
 \phone[fixed]{(819) 669-4016}
 \email{alexbrochu1@gmail.com}
 \homepage{brochu.github.io}
-\social[linkedin]{Alexandre Brochu}
+\social[linkedin][ca.linkedin.com/in/AlexandreBrochu]{Alexandre Brochu}
 \social[github]{Brochu}                             
 %\quote{Objectif: Obtenir un emploi dans le domaine de la programmation informatique plus spécifiquement en programmation de jeux vidéo pour mettre en pratique mes études en informatique.}
 
@@ -69,6 +69,14 @@
 % \cventry{2004-2009}{Diplôme d'études secondaire}{Polyvalente de l'Érablière}{Gatineau (Québec)}{}{ Programme micro informatique (PMI)}
 
 \section{Expériences de travail}
+\cventry{Juillet~2015\\présent}{Programmeur Unity}{Fuel Industries}{Ottawa}{ON}{
+\begin{itemize}
+	\item Travail avec le moteur Unity3D
+        \item Modifier le code du jeu directement (intelligence artificielle, animation, interface usager)
+	\item Ajouter des fonctionnalités au jeu d'après des spécifications
+	\item Règler des problèmes identifiés par une équipe de testeurs
+	\item Développement d'un jeu sur une plateforme mobile
+\end{itemize}}
 \cventry{mai~2014\\août~2014}{Programmeur généraliste}{Square Enix Montreal}{Montréal}{QC}{
 \begin{itemize}
 	\item Travail avec le moteur Unity3D
